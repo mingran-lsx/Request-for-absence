@@ -1,2 +1,2 @@
-# Request-for-absence
-!
+# 缺席请求
+简单的请假小程序
